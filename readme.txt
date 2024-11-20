@@ -6,4 +6,3 @@
 5.Rename Astrovision11.1.txt to Astrovision11.1.exe
 6.Run Astrovision11.1.Exe file
 7.how to make Setup file
-
